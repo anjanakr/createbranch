@@ -21,13 +21,13 @@
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
-        <sys_code/>
+        <sys_code>x_createbranch</sys_code>
         <sys_created_by>anjana</sys_created_by>
         <sys_created_on>2019-08-13 14:57:45</sys_created_on>
         <sys_id>3b176cf0b7533300cf70e2b9de11a9f1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>anjana</sys_updated_by>
-        <sys_updated_on>2019-08-13 14:57:45</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-31 19:45:46</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
